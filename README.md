@@ -123,8 +123,7 @@ Use this token for protected routes.
 📚 Get All Books 
 Endpoint: GET /api/books
 
-<img width="794" alt="image" src="https://github.com/user-attachments/assets/4824fd4a-49c8-43dd-9606-faf91e1c3665" />
-
+![Screenshot 2025-05-24 221521](https://github.com/user-attachments/assets/2f342172-1b54-4b7f-bce5-a7381dc707e1)
 
 📚 Get  Books By Id
 :id  is a bookid
