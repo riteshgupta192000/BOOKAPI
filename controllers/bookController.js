@@ -21,11 +21,6 @@ exports.getBooks = async (req, res) => {
   res.json(books);
 };
 
-
-
-
-
-
 exports.getBookById = async (req, res) => {
   const { id } = req.params;
 
@@ -42,8 +37,6 @@ exports.getBookById = async (req, res) => {
 
   res.json({ book, avgRating });
 };
-
-
 
 exports.searchBooks = async (req, res) => {
   const { q } = req.query;
