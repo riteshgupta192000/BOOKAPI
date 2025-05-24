@@ -123,35 +123,36 @@ Use this token for protected routes.
 📚 Get All Books 
 Endpoint: GET /api/books
 
-![Screenshot 2025-05-24 221521](https://github.com/user-attachments/assets/2f342172-1b54-4b7f-bce5-a7381dc707e1)
+![Get All Books](assets/getallbook.png)
+
 
 📚 Get  Books By Id
 :id  is a bookid
 Endpoint: GET /api/books/:id
 
-![Screenshot 2025-05-24 221658](https://github.com/user-attachments/assets/d68c9ebc-1543-4724-8e8a-f30cc20ae9f7)
+![Get By Book Id] (assets/getbookbyid.png)
+
 
 
 📚 Add  Books 
 :id  is a bookid
 Endpoint: POST /api/books/
 
-![Screenshot 2025-05-24 221819](https://github.com/user-attachments/assets/a759e126-78a4-4eb4-9c61-021c97c8c142)
-
+![Add Book] (assets/addbook.png)
 
 📚 Search Book by using query parameter by title ,author ,genre 
 Endpoint: GET /api/books/search?q=Paulo
 
 
+![search book] (assets/searchbook.png)
 
-![Screenshot 2025-05-24 221930](https://github.com/user-attachments/assets/67cad831-6b16-4e72-af21-c3a9c37b4bfd)
 
 
 📚 Update Review:-
 :id is a review id
 Endpoint: PUT /api/reviews/:id
 
-![Screenshot 2025-05-24 222129](https://github.com/user-attachments/assets/7e077b72-0e6a-411f-a12f-2437fc13d289)
+![update review by review id ] (assets/update review.png)
 
 
 
@@ -159,7 +160,14 @@ Endpoint: PUT /api/reviews/:id
 :id is a review id
 Endpoint:DELETE /api/reviews/:id
 
-![Screenshot 2025-05-24 222420](https://github.com/user-attachments/assets/c550cf74-0dcd-4413-a474-b4996df40839)
+![delete review] (assets/delete review.png)
+
+
+📚 Add Review:-
+:id is a review id
+Endpoint:DELETE /api/reviews/:id
+
+![add review] (assets/addreview.png)
 
 
 
