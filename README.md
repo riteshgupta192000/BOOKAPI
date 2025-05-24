@@ -129,29 +129,38 @@ Endpoint: GET /api/books
 :id  is a bookid
 Endpoint: GET /api/books/:id
 
-<img width="857" alt="image" src="https://github.com/user-attachments/assets/d3ab0afc-8b25-492d-92f3-4037cdefdd93" />
+![Screenshot 2025-05-24 221658](https://github.com/user-attachments/assets/d68c9ebc-1543-4724-8e8a-f30cc20ae9f7)
 
+
+📚 Add  Books 
+:id  is a bookid
+Endpoint: POST /api/books/
+
+![Screenshot 2025-05-24 221819](https://github.com/user-attachments/assets/a759e126-78a4-4eb4-9c61-021c97c8c142)
 
 
 📚 Search Book by using query parameter by title ,author ,genre 
 Endpoint: GET /api/books/search?q=Paulo
 
-<img width="890" alt="image" src="https://github.com/user-attachments/assets/ae5c6062-d2f4-4bbc-ad95-18a1dc86e776" />
+
+
+![Screenshot 2025-05-24 221930](https://github.com/user-attachments/assets/67cad831-6b16-4e72-af21-c3a9c37b4bfd)
 
 
 📚 Update Review:-
 :id is a review id
 Endpoint: PUT /api/reviews/:id
 
-<img width="902" alt="image" src="https://github.com/user-attachments/assets/8c31187b-e33c-45b1-81c9-38b5152a4573" />
+![Screenshot 2025-05-24 222129](https://github.com/user-attachments/assets/7e077b72-0e6a-411f-a12f-2437fc13d289)
+
 
 
 📚 Delete Review:-
 :id is a review id
 Endpoint:DELETE /api/reviews/:id
 
+![Screenshot 2025-05-24 222420](https://github.com/user-attachments/assets/c550cf74-0dcd-4413-a474-b4996df40839)
 
-<img width="888" alt="image" src="https://github.com/user-attachments/assets/746e77b2-c21a-420f-b7b0-3dfc2dd23abb" />
 
 
 
